@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="utf-8" />
+  <title>Survey Form</title>
+   <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="forms">
+    <h1 id="title">Survey Form</h1>
+    <p id="description">Thank you for taking the time to help us improve the platform</p>
+    <form method="post" action='https://register-demo.freecodecamp.org' id="survey-form">
+      <label for="name" id="name-label">Name: <input required id="name" type="text" placeholder="Enter your name" /></label>
+      <label for="email" id="email-label">Email: <input required id="email" type="email" placeholder="Enter your email" /></label>
+      <label for="age" id="number-label">Age(optional) <input id="number" type="number" min="12" max="120" placeholder="Age" /></label>
+             <label for="referrer">How did you hear about us?
+          <select id="dropdown" name="referrer">
+            <option value="">(select one)</option>
+            <option value="1">News</option>
+            <option value="2">YouTube Channel</option>
+            <option value="3">Forum</option>
+            <option value="4">Other</option>
+          </select>
+        </label>
+      <legend>Sex(required)</legend>
+      <label for="male" id="sex-label"><input id="male" type="radio" name="sex" class="inline" value="1" />Male</label>
+      <label for="female" id="sex-label"><input id="female" type="radio" name="sex" class="inline" value="2" />Female</label>
+      <legend>What is your level of education(select all that apply)</legend>
+      <label for="education" id="education-label"><input id="education" type="checkbox" value="1" class="inline"/>High School</label>
+      <label for="education" id="education-label"><input id="education" type="checkbox" value="2" class="inline" />Undergraduate</label>
+      <label for="education" id="education-label"><input id="education" type="checkbox" value="3" class="inline"/>Masters</label>
+      <label for="education" id="education-label"><input id="education" type="checkbox" value="4" class="inline" />Doctorate</label>
+      <label for="education" id="education-label"><input id="education" type="checkbox" value="5" class="inline" />Post Doctorate</label>
+      <legend>Any additional comments<textarea></textarea></legend>
+      <input id="submit" type='submit' value="submit" />
+      </form>
+      <div>
+    </body>
+</html>
