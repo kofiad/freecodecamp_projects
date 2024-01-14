@@ -1,4 +1,4 @@
-string name = "Sophia Johnson";
+﻿string name = "Sophia Johnson";
 string[] course = {"English 101", "Algebra 101", "Biology 101", "Computer Science I", "Psycology 101"};
 int[] grade = {3, 4};
 int[] creditHours = {3, 4};
