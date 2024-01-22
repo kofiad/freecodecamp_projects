@@ -1,0 +1,15 @@
+E:\Documents\Vs code\freecodecamp_projects\Foundational C-sharp with Microsoft\OrderOfIDs\TestProject\obj\Debug\net8.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\Vs code\freecodecamp_projects\Foundational C-sharp with Microsoft\OrderOfIDs\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfoInputs.cache
+E:\Documents\Vs code\freecodecamp_projects\Foundational C-sharp with Microsoft\OrderOfIDs\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfo.cs
+E:\Documents\Vs code\freecodecamp_projects\Foundational C-sharp with Microsoft\OrderOfIDs\TestProject\obj\Debug\net8.0\TestProject.csproj.CoreCompileInputs.cache
+E:\Documents\Vs code\freecodecamp_projects\Foundational C-sharp with Microsoft\OrderOfIDs\TestProject\obj\Debug\net8.0\TestProject.sourcelink.json
+E:\Documents\Vs code\freecodecamp_projects\Foundational C-sharp with Microsoft\OrderOfIDs\TestProject\bin\Debug\net8.0\TestProject.exe
+E:\Documents\Vs code\freecodecamp_projects\Foundational C-sharp with Microsoft\OrderOfIDs\TestProject\bin\Debug\net8.0\TestProject.deps.json
+E:\Documents\Vs code\freecodecamp_projects\Foundational C-sharp with Microsoft\OrderOfIDs\TestProject\bin\Debug\net8.0\TestProject.runtimeconfig.json
+E:\Documents\Vs code\freecodecamp_projects\Foundational C-sharp with Microsoft\OrderOfIDs\TestProject\bin\Debug\net8.0\TestProject.dll
+E:\Documents\Vs code\freecodecamp_projects\Foundational C-sharp with Microsoft\OrderOfIDs\TestProject\bin\Debug\net8.0\TestProject.pdb
+E:\Documents\Vs code\freecodecamp_projects\Foundational C-sharp with Microsoft\OrderOfIDs\TestProject\obj\Debug\net8.0\TestProject.dll
+E:\Documents\Vs code\freecodecamp_projects\Foundational C-sharp with Microsoft\OrderOfIDs\TestProject\obj\Debug\net8.0\refint\TestProject.dll
+E:\Documents\Vs code\freecodecamp_projects\Foundational C-sharp with Microsoft\OrderOfIDs\TestProject\obj\Debug\net8.0\TestProject.pdb
+E:\Documents\Vs code\freecodecamp_projects\Foundational C-sharp with Microsoft\OrderOfIDs\TestProject\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
+E:\Documents\Vs code\freecodecamp_projects\Foundational C-sharp with Microsoft\OrderOfIDs\TestProject\obj\Debug\net8.0\ref\TestProject.dll
