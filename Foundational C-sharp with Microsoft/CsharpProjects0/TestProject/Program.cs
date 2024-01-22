@@ -4,7 +4,6 @@ int num2 = num.Next(1, 7);
 int num3 = num.Next(1, 7);
 int sum = num1 + num2 + num3;
 
-Console.WriteLine($"Sum: {num1} + {num2} + {num3} = {sum}");
 if ((num1 == num2) || (num1 == num3) || (num2 == num3))
 {
     Console.WriteLine("+2 bonus points, doubles");
@@ -23,3 +22,4 @@ if (sum < 15)
 {
     Console.WriteLine("Sorry, try again");
 }
+Console.WriteLine($"Sum: {num1} + {num2} + {num3} = {sum}");
