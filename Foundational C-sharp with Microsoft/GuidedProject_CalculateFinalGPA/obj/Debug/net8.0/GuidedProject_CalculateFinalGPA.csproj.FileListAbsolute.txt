@@ -1,0 +1,15 @@
+E:\Documents\Vs code\freecodecamp_projects\Foundational C-sharp with Microsoft\GuidedProject_CalculateFinalGPA\bin\Debug\net8.0\GuidedProject_CalculateFinalGPA.exe
+E:\Documents\Vs code\freecodecamp_projects\Foundational C-sharp with Microsoft\GuidedProject_CalculateFinalGPA\bin\Debug\net8.0\GuidedProject_CalculateFinalGPA.deps.json
+E:\Documents\Vs code\freecodecamp_projects\Foundational C-sharp with Microsoft\GuidedProject_CalculateFinalGPA\bin\Debug\net8.0\GuidedProject_CalculateFinalGPA.runtimeconfig.json
+E:\Documents\Vs code\freecodecamp_projects\Foundational C-sharp with Microsoft\GuidedProject_CalculateFinalGPA\bin\Debug\net8.0\GuidedProject_CalculateFinalGPA.dll
+E:\Documents\Vs code\freecodecamp_projects\Foundational C-sharp with Microsoft\GuidedProject_CalculateFinalGPA\bin\Debug\net8.0\GuidedProject_CalculateFinalGPA.pdb
+E:\Documents\Vs code\freecodecamp_projects\Foundational C-sharp with Microsoft\GuidedProject_CalculateFinalGPA\obj\Debug\net8.0\GuidedProject_CalculateFinalGPA.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\Vs code\freecodecamp_projects\Foundational C-sharp with Microsoft\GuidedProject_CalculateFinalGPA\obj\Debug\net8.0\GuidedProject_CalculateFinalGPA.AssemblyInfoInputs.cache
+E:\Documents\Vs code\freecodecamp_projects\Foundational C-sharp with Microsoft\GuidedProject_CalculateFinalGPA\obj\Debug\net8.0\GuidedProject_CalculateFinalGPA.AssemblyInfo.cs
+E:\Documents\Vs code\freecodecamp_projects\Foundational C-sharp with Microsoft\GuidedProject_CalculateFinalGPA\obj\Debug\net8.0\GuidedProject_CalculateFinalGPA.csproj.CoreCompileInputs.cache
+E:\Documents\Vs code\freecodecamp_projects\Foundational C-sharp with Microsoft\GuidedProject_CalculateFinalGPA\obj\Debug\net8.0\GuidedProject_CalculateFinalGPA.sourcelink.json
+E:\Documents\Vs code\freecodecamp_projects\Foundational C-sharp with Microsoft\GuidedProject_CalculateFinalGPA\obj\Debug\net8.0\GuidedProject_CalculateFinalGPA.dll
+E:\Documents\Vs code\freecodecamp_projects\Foundational C-sharp with Microsoft\GuidedProject_CalculateFinalGPA\obj\Debug\net8.0\refint\GuidedProject_CalculateFinalGPA.dll
+E:\Documents\Vs code\freecodecamp_projects\Foundational C-sharp with Microsoft\GuidedProject_CalculateFinalGPA\obj\Debug\net8.0\GuidedProject_CalculateFinalGPA.pdb
+E:\Documents\Vs code\freecodecamp_projects\Foundational C-sharp with Microsoft\GuidedProject_CalculateFinalGPA\obj\Debug\net8.0\GuidedProject_CalculateFinalGPA.genruntimeconfig.cache
+E:\Documents\Vs code\freecodecamp_projects\Foundational C-sharp with Microsoft\GuidedProject_CalculateFinalGPA\obj\Debug\net8.0\ref\GuidedProject_CalculateFinalGPA.dll

@@ -1,0 +1,15 @@
+E:\Documents\Vs code\freecodecamp_projects\Foundational C-sharp with Microsoft\GuidedProject_CalculateAndPrintStudentGrades\bin\Debug\net8.0\GuidedProject_CalculateAndPrintStudentGrades.exe
+E:\Documents\Vs code\freecodecamp_projects\Foundational C-sharp with Microsoft\GuidedProject_CalculateAndPrintStudentGrades\bin\Debug\net8.0\GuidedProject_CalculateAndPrintStudentGrades.deps.json
+E:\Documents\Vs code\freecodecamp_projects\Foundational C-sharp with Microsoft\GuidedProject_CalculateAndPrintStudentGrades\bin\Debug\net8.0\GuidedProject_CalculateAndPrintStudentGrades.runtimeconfig.json
+E:\Documents\Vs code\freecodecamp_projects\Foundational C-sharp with Microsoft\GuidedProject_CalculateAndPrintStudentGrades\bin\Debug\net8.0\GuidedProject_CalculateAndPrintStudentGrades.dll
+E:\Documents\Vs code\freecodecamp_projects\Foundational C-sharp with Microsoft\GuidedProject_CalculateAndPrintStudentGrades\bin\Debug\net8.0\GuidedProject_CalculateAndPrintStudentGrades.pdb
+E:\Documents\Vs code\freecodecamp_projects\Foundational C-sharp with Microsoft\GuidedProject_CalculateAndPrintStudentGrades\obj\Debug\net8.0\GuidedProject_CalculateAndPrintStudentGrades.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\Vs code\freecodecamp_projects\Foundational C-sharp with Microsoft\GuidedProject_CalculateAndPrintStudentGrades\obj\Debug\net8.0\GuidedProject_CalculateAndPrintStudentGrades.AssemblyInfoInputs.cache
+E:\Documents\Vs code\freecodecamp_projects\Foundational C-sharp with Microsoft\GuidedProject_CalculateAndPrintStudentGrades\obj\Debug\net8.0\GuidedProject_CalculateAndPrintStudentGrades.AssemblyInfo.cs
+E:\Documents\Vs code\freecodecamp_projects\Foundational C-sharp with Microsoft\GuidedProject_CalculateAndPrintStudentGrades\obj\Debug\net8.0\GuidedProject_CalculateAndPrintStudentGrades.csproj.CoreCompileInputs.cache
+E:\Documents\Vs code\freecodecamp_projects\Foundational C-sharp with Microsoft\GuidedProject_CalculateAndPrintStudentGrades\obj\Debug\net8.0\GuidedProject_CalculateAndPrintStudentGrades.sourcelink.json
+E:\Documents\Vs code\freecodecamp_projects\Foundational C-sharp with Microsoft\GuidedProject_CalculateAndPrintStudentGrades\obj\Debug\net8.0\GuidedProject_CalculateAndPrintStudentGrades.dll
+E:\Documents\Vs code\freecodecamp_projects\Foundational C-sharp with Microsoft\GuidedProject_CalculateAndPrintStudentGrades\obj\Debug\net8.0\refint\GuidedProject_CalculateAndPrintStudentGrades.dll
+E:\Documents\Vs code\freecodecamp_projects\Foundational C-sharp with Microsoft\GuidedProject_CalculateAndPrintStudentGrades\obj\Debug\net8.0\GuidedProject_CalculateAndPrintStudentGrades.pdb
+E:\Documents\Vs code\freecodecamp_projects\Foundational C-sharp with Microsoft\GuidedProject_CalculateAndPrintStudentGrades\obj\Debug\net8.0\GuidedProject_CalculateAndPrintStudentGrades.genruntimeconfig.cache
+E:\Documents\Vs code\freecodecamp_projects\Foundational C-sharp with Microsoft\GuidedProject_CalculateAndPrintStudentGrades\obj\Debug\net8.0\ref\GuidedProject_CalculateAndPrintStudentGrades.dll
